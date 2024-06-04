@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Ni Made Bella Sridiana Wati](https://madebella.vercel.app/), and I am an Applied Degree student in Software Engineering at Lithan Educlass Academy and also working towards for my Bachelor of Science in Information System at ITB Stikom Bali. I am currently studying Web Development, and this Github account will serve as a witness to my long journey of learning and growth in this field.
+My name is [Ni Made Bella Sridiana Wati](https://madebella.vercel.app/), and I graduated as an Applied Degree student in Software Engineering at Lithan Educlass Academy and also working towards my Bachelor of Science in Information System at ITB Stikom Bali. I am currently studying Web Development, and this Github account will serve as a witness to my long journey of learning and growth in this field.
 
 ## 📞 Connect with me
 
