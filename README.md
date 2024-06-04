@@ -25,6 +25,7 @@ My name is [Ni Made Bella Sridiana Wati](https://madebella.vercel.app/), and I a
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0078D6?style=for-the-badge&logo=phps&logoColor=white)
 
 ## 📊 My Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haruka0313&theme=vue-dark)](https://git.io/streak-stats)
